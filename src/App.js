@@ -1,26 +1,51 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
-import './App.css';
+import AppBar from '@material-ui/core/AppBar';
+import Toolbar from '@material-ui/core/Toolbar';
+import Grid from '@material-ui/core/Grid';
+import Paper from '@material-ui/core/Paper';
+import Typography from '@material-ui/core/Typography';
+import './App.css'
+import {
+  BrowserRouter as Router,
+  Route
+} from 'react-router-dom';
+import MenuComponent from './pages/MenuComponent';
+import ListComponent from './pages/ListComponent';
+import MapComponent from './pages/MapComponent';
+import DetailsComponent from './pages/DetailsComponent';
+
 
 class App extends Component {
+
+
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
-          <a
-            className="App-link"
-            href="https://reactjs.org"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Learn React
-          </a>
-        </header>
-      </div>
+      <Router>
+        <div className="App">
+          <AppBar position="static">
+            <Toolbar>                  
+              <Typography variant="h6" color="inherit" noWrap>
+                  Performance testing app
+              </Typography>
+            </Toolbar>
+          </AppBar>      
+          <Grid container
+                direction="row"
+                justify="center"
+                alignItems="center"
+                className="main-container">
+            <Grid item xs={12}>
+              <Paper className="main-paper">
+                <Route exact path="/" component={MenuComponent} />
+                <Route path="/list/:count" component={ListComponent} />
+                <Route path="/map/:count?" component={MapComponent} />                
+                <Route path="/details" component={DetailsComponent} />                
+              </Paper>
+            </Grid>
+          </Grid>
+          
+        </div>
+        </Router>            
     );
   }
 }

@@ -1,0 +1,1501 @@
+//http://www.geomidpoint.com/random/
+Latitude: 53°06′24″N   53.10679428
+Longitude: 24°36′17″E   24.60484698
+Distance: 95.8973 km  Bearing: 91.133°
+Latitude: 53°26′39″N   53.44427492
+Longitude: 23°33′14″E   23.55400449
+Distance: 43.1098 km  Bearing: 36.291°
+Latitude: 52°28′57″N   52.48242081
+Longitude: 23°49′17″E   23.82147526
+Distance: 84.5772 km  Bearing: 148.487°
+Latitude: 53°09′48″N   53.16321084
+Longitude: 21°52′01″E   21.86692817
+Distance: 86.9142 km  Bearing: 272.774°
+Latitude: 53°38′56″N   53.64876694
+Longitude: 24°23′27″E   24.3907836
+Distance: 99.3302 km  Bearing: 54.194°
+Latitude: 53°18′38″N   53.31053363
+Longitude: 22°05′18″E   22.08823822
+Distance: 74.6356 km  Bearing: 285.819°
+Latitude: 53°30′47″N   53.51303884
+Longitude: 22°03′34″E   22.05931413
+Distance: 84.9995 km  Bearing: 300.309°
+Latitude: 53°23′52″N   53.39778772
+Longitude: 24°18′42″E   24.31171219
+Distance: 81.5548 km  Bearing: 68.331°
+Latitude: 53°54′55″N   53.91519344
+Longitude: 23°49′12″E   23.81988682
+Distance: 97.1185 km  Bearing: 26.051°
+Latitude: 52°30′08″N   52.50209173
+Longitude: 22°33′56″E   22.56568878
+Distance: 80.9943 km  Bearing: 210.279°
+Latitude: 53°56′13″N   53.93707888
+Longitude: 23°49′09″E   23.81930008
+Distance: 99.2847 km  Bearing: 25.402°
+Latitude: 53°25′58″N   53.43280392
+Longitude: 23°33′35″E   23.55966795
+Distance: 42.3226 km  Bearing: 37.729°
+Latitude: 53°22′45″N   53.379163
+Longitude: 23°45′23″E   23.75639396
+Distance: 47.7624 km  Bearing: 54.705°
+Latitude: 52°27′09″N   52.45239234
+Longitude: 23°43′45″E   23.72928135
+Distance: 84.5156 km  Bearing: 153.289°
+Latitude: 52°59′02″N   52.98379709
+Longitude: 21°43′43″E   21.72874282
+Distance: 97.6754 km  Bearing: 260.828°
+Latitude: 53°36′30″N   53.60823439
+Longitude: 21°57′15″E   21.95412625
+Distance: 96.4249 km  Bearing: 303.768°
+Latitude: 53°31′35″N   53.52636679
+Longitude: 23°34′59″E   23.58346753
+Distance: 51.7477 km  Bearing: 31.99°
+Latitude: 52°33′44″N   52.5621476
+Longitude: 22°10′24″E   22.17347185
+Distance: 92.1662 km  Bearing: 226.904°
+Latitude: 53°37′21″N   53.62256172
+Longitude: 24°20′55″E   24.34849174
+Distance: 95.3792 km  Bearing: 54.674°
+Latitude: 52°43′46″N   52.72938297
+Longitude: 23°50′31″E   23.8420233
+Distance: 63.6177 km  Bearing: 134.542°
+Latitude: 53°39′31″N   53.65865435
+Longitude: 23°10′59″E   23.18295305
+Distance: 58.5309 km  Bearing: 0.911°
+Latitude: 52°28′39″N   52.47763641
+Longitude: 23°33′01″E   23.55027265
+Distance: 77.22 km  Bearing: 160.45°
+Latitude: 53°38′11″N   53.63648612
+Longitude: 23°55′57″E   23.93256008
+Distance: 75.56 km  Bearing: 41.801°
+Latitude: 53°33′33″N   53.55921271
+Longitude: 22°21′09″E   22.35249
+Distance: 72.0478 km  Bearing: 311.532°
+Latitude: 52°56′10″N   52.93612911
+Longitude: 21°47′24″E   21.78998769
+Distance: 94.773 km  Bearing: 257.228°
+Latitude: 52°21′00″N   52.34993063
+Longitude: 23°14′23″E   23.23983169
+Distance: 87.1722 km  Bearing: 176.828°
+Latitude: 53°36′55″N   53.6152965
+Longitude: 22°43′08″E   22.71875275
+Distance: 61.4471 km  Bearing: 331.099°
+Latitude: 53°29′11″N   53.4863183
+Longitude: 24°23′54″E   24.39836769
+Distance: 90.6927 km  Bearing: 63.791°
+Latitude: 53°26′25″N   53.44024256
+Longitude: 22°51′03″E   22.85084885
+Distance: 40.2341 km  Bearing: 328.424°
+Latitude: 52°39′40″N   52.66116001
+Longitude: 24°14′41″E   24.24461599
+Distance: 89.2089 km  Bearing: 125.56°
+Latitude: 53°58′46″N   53.97941546
+Longitude: 23°27′41″E   23.46147782
+Distance: 96.1642 km  Bearing: 11.482°
+Latitude: 53°04′38″N   53.07709131
+Longitude: 22°57′56″E   22.96545923
+Distance: 14.9132 km  Bearing: 245.677°
+Latitude: 53°48′35″N   53.80972487
+Longitude: 23°37′19″E   23.62204701
+Distance: 81.0819 km  Bearing: 21.537°
+Latitude: 53°11′34″N   53.19291253
+Longitude: 22°32′59″E   22.54966592
+Distance: 41.833 km  Bearing: 279.493°
+Latitude: 53°15′02″N   53.25042273
+Longitude: 22°37′31″E   22.62516468
+Distance: 38.5321 km  Bearing: 290.12°
+Latitude: 53°04′22″N   53.07288597
+Longitude: 23°12′42″E   23.21157844
+Distance: 7.2176 km  Bearing: 156.691°
+Latitude: 53°34′05″N   53.56794726
+Longitude: 23°03′15″E   23.05419573
+Distance: 49.0289 km  Bearing: 351.115°
+Latitude: 52°51′57″N   52.86578938
+Longitude: 23°53′08″E   23.88550957
+Distance: 56.4032 km  Bearing: 121.444°
+Latitude: 53°30′06″N   53.50163556
+Longitude: 22°16′13″E   22.27024435
+Distance: 72.4614 km  Bearing: 304.875°
+Latitude: 52°57′11″N   52.95294659
+Longitude: 22°12′39″E   22.21077517
+Distance: 67.1067 km  Bearing: 253.071°
+Latitude: 53°20′09″N   53.3357915
+Longitude: 22°32′11″E   22.53644399
+Distance: 47.7893 km  Bearing: 298.493°
+Latitude: 53°08′07″N   53.13535972
+Longitude: 22°25′11″E   22.41968379
+Distance: 49.9919 km  Bearing: 270.666°
+Latitude: 52°22′10″N   52.36950926
+Longitude: 23°18′48″E   23.31346685
+Distance: 85.42 km  Bearing: 173.397°
+Latitude: 52°46′24″N   52.77322683
+Longitude: 22°19′28″E   22.3243555
+Distance: 69.275 km  Bearing: 235.111°
+Latitude: 52°53′17″N   52.88795089
+Longitude: 22°51′08″E   22.85229695
+Distance: 34.475 km  Bearing: 218.039°
+Latitude: 53°16′03″N   53.2673981
+Longitude: 22°04′41″E   22.07806847
+Distance: 74.2073 km  Bearing: 282.102°
+Latitude: 53°09′19″N   53.15540168
+Longitude: 22°59′57″E   22.99903801
+Distance: 11.6114 km  Bearing: 282.747°
+Latitude: 53°17′53″N   53.29806703
+Longitude: 22°01′18″E   22.02160575
+Distance: 78.5969 km  Bearing: 284.01°
+Latitude: 53°35′37″N   53.59372431
+Longitude: 24°24′01″E   24.40035298
+Distance: 96.5029 km  Bearing: 57.394°
+Latitude: 52°26′35″N   52.44309687
+Longitude: 22°50′44″E   22.84549534
+Distance: 79.7034 km  Bearing: 195.965°
+Latitude: 53°05′49″N   53.09702724
+Longitude: 23°14′31″E   23.24192939
+Distance: 6.2742 km  Bearing: 128.921°
+Latitude: 53°57′58″N   53.96608426
+Longitude: 22°39′23″E   22.65639015
+Distance: 98.7078 km  Bearing: 340.142°
+Latitude: 53°01′48″N   53.02995879
+Longitude: 24°08′43″E   24.1451843
+Distance: 66.22 km  Bearing: 99.526°
+Latitude: 52°53′20″N   52.88896531
+Longitude: 24°03′38″E   24.06043028
+Distance: 65.5258 km  Bearing: 114.06°
+Latitude: 53°17′17″N   53.28806896
+Longitude: 23°10′49″E   23.1802644
+Distance: 17.3213 km  Bearing: 2.513°
+Latitude: 52°50′57″N   52.84914791
+Longitude: 22°33′49″E   22.56357895
+Distance: 51.3352 km  Bearing: 232.37°
+Latitude: 52°57′29″N   52.95802368
+Longitude: 21°47′44″E   21.79543651
+Distance: 93.8622 km  Bearing: 258.618°
+Latitude: 53°33′45″N   53.56263406
+Longitude: 23°22′47″E   23.37970705
+Distance: 49.85 km  Bearing: 16.227°
+Latitude: 53°53′04″N   53.88439056
+Longitude: 23°37′33″E   23.6259124
+Distance: 88.928 km  Bearing: 19.692°
+Latitude: 52°59′56″N   52.99897806
+Longitude: 23°43′57″E   23.73257168
+Distance: 40.4981 km  Bearing: 111.286°
+Latitude: 53°04′30″N   53.07496688
+Longitude: 22°08′38″E   22.14380309
+Distance: 68.7464 km  Bearing: 265.07°
+Latitude: 52°18′39″N   52.31071088
+Longitude: 23°07′05″E   23.1179203
+Distance: 91.4676 km  Bearing: 182.17°
+Latitude: 53°21′51″N   53.36423184
+Longitude: 22°33′20″E   22.55553109
+Distance: 48.2742 km  Bearing: 302.518°
+Latitude: 53°52′31″N   53.87520417
+Longitude: 23°19′03″E   23.3174904
+Distance: 83.1927 km  Bearing: 6.729°
+Latitude: 52°51′44″N   52.8623314
+Longitude: 23°50′59″E   23.84982275
+Distance: 54.5983 km  Bearing: 123.119°
+Latitude: 53°13′50″N   53.23063392
+Longitude: 22°40′10″E   22.66936626
+Distance: 35.0368 km  Bearing: 288.354°
+Latitude: 52°51′24″N   52.85655165
+Longitude: 23°58′05″E   23.9681625
+Distance: 61.6878 km  Bearing: 119.517°
+Latitude: 52°50′20″N   52.83894493
+Longitude: 23°42′52″E   23.71441927
+Distance: 48.9955 km  Bearing: 131.57°
+Latitude: 52°40′52″N   52.68113394
+Longitude: 22°13′28″E   22.22433707
+Distance: 80.8362 km  Bearing: 231.986°
+Latitude: 52°39′58″N   52.66608737
+Longitude: 24°04′35″E   24.07627285
+Distance: 79.9856 km  Bearing: 130.071°
+Latitude: 53°08′04″N   53.1345426
+Longitude: 23°33′03″E   23.55085657
+Distance: 25.4931 km  Bearing: 89.334°
+Latitude: 52°56′20″N   52.9388581
+Longitude: 21°55′05″E   21.91799879
+Distance: 86.3856 km  Bearing: 256.064°
+Latitude: 52°53′11″N   52.88644684
+Longitude: 24°17′12″E   24.28665813
+Distance: 79.6551 km  Bearing: 109.647°
+Latitude: 52°33′35″N   52.55962712
+Longitude: 23°03′53″E   23.06482243
+Distance: 64.0992 km  Bearing: 186.3°
+Latitude: 53°48′29″N   53.80811932
+Longitude: 22°45′15″E   22.75428102
+Distance: 80.0028 km  Bearing: 340.103°
+Latitude: 52°51′03″N   52.85093347
+Longitude: 21°56′45″E   21.94592808
+Distance: 87.6579 km  Bearing: 249.558°
+Latitude: 53°09′37″N   53.16035521
+Longitude: 23°44′06″E   23.734889
+Distance: 37.8882 km  Bearing: 85.081°
+Latitude: 53°01′38″N   53.02715611
+Longitude: 21°48′26″E   21.8073307
+Distance: 91.7176 km  Bearing: 263.206°
+Latitude: 53°28′38″N   53.47714322
+Longitude: 23°23′03″E   23.38406019
+Distance: 40.9165 km  Bearing: 20.377°
+Latitude: 52°56′31″N   52.94190949
+Longitude: 22°15′24″E   22.25667411
+Distance: 64.5829 km  Bearing: 251.204°
+Latitude: 53°47′43″N   53.795149
+Longitude: 22°25′13″E   22.42033417
+Distance: 88.8189 km  Bearing: 326.381°
+Latitude: 53°44′30″N   53.74157186
+Longitude: 22°36′27″E   22.6075914
+Distance: 77.2809 km  Bearing: 331.462°
+Latitude: 53°08′10″N   53.13604126
+Longitude: 24°30′06″E   24.50171375
+Distance: 88.9413 km  Bearing: 89.212°
+Latitude: 53°42′30″N   53.70836884
+Longitude: 23°59′27″E   23.99094167
+Distance: 84.0952 km  Bearing: 40.06°
+Latitude: 53°49′17″N   53.82151912
+Longitude: 22°31′47″E   22.52976743
+Distance: 87.538 km  Bearing: 331.358°
+Latitude: 53°42′12″N   53.70343006
+Longitude: 23°45′47″E   23.76308265
+Distance: 74.7281 km  Bearing: 31.573°
+Latitude: 53°14′52″N   53.24768818
+Longitude: 24°27′10″E   24.45282612
+Distance: 86.5209 km  Bearing: 80.97°
+Latitude: 53°56′29″N   53.941519
+Longitude: 22°51′57″E   22.86578753
+Distance: 92.188 km  Bearing: 347.571°
+Latitude: 52°44′11″N   52.73626461
+Longitude: 24°15′30″E   24.25820173
+Distance: 85.2958 km  Bearing: 120.674°
+Latitude: 53°27′17″N   53.45476003
+Longitude: 21°48′22″E   21.80600567
+Distance: 97.4343 km  Bearing: 292.13°
+Latitude: 53°23′20″N   53.38876229
+Longitude: 22°10′52″E   22.18115341
+Distance: 71.6287 km  Bearing: 293.845°
+Latitude: 52°29′45″N   52.49586829
+Longitude: 23°12′23″E   23.2064497
+Distance: 70.854 km  Bearing: 177.94°
+Latitude: 52°46′42″N   52.7783651
+Longitude: 23°30′17″E   23.50460141
+Distance: 45.3604 km  Bearing: 150.131°
+Latitude: 52°41′10″N   52.6861164
+Longitude: 24°11′15″E   24.18743162
+Distance: 84.4575 km  Bearing: 125.597°
+Latitude: 53°10′24″N   53.17339639
+Longitude: 21°46′46″E   21.77954466
+Distance: 92.7766 km  Bearing: 273.367°
+Latitude: 53°09′45″N   53.16259758
+Longitude: 22°52′47″E   22.87963186
+Distance: 19.5812 km  Bearing: 279.963°
+Latitude: 52°36′45″N   52.61250267
+Longitude: 23°25′00″E   23.41667126
+Distance: 60.1817 km  Bearing: 163.852°
+Latitude: 53°19′13″N   53.32037542
+Longitude: 24°04′08″E   24.06892845
+Distance: 63.4717 km  Bearing: 70.417°
+Latitude: 54°00′35″N   54.00959436
+Longitude: 23°17′18″E   23.28828904
+Distance: 97.8757 km  Bearing: 4.575°
+Latitude: 52°52′22″N   52.87269267
+Longitude: 22°36′59″E   22.6164372
+Distance: 46.9262 km  Bearing: 232.213°
+Latitude: 53°04′46″N   53.07942753
+Longitude: 23°19′01″E   23.31702045
+Distance: 11.5209 km  Bearing: 120.756°
+Latitude: 53°20′59″N   53.34965632
+Longitude: 22°29′04″E   22.48438627
+Distance: 51.5664 km  Bearing: 298.206°
+Latitude: 53°29′26″N   53.49047067
+Longitude: 23°50′18″E   23.83844545
+Distance: 59.7109 km  Bearing: 47.909°
+Latitude: 53°37′44″N   53.62895513
+Longitude: 23°28′01″E   23.46683953
+Distance: 58.6527 km  Bearing: 19.58°
+Latitude: 52°23′28″N   52.39102713
+Longitude: 22°32′17″E   22.53801912
+Distance: 92.7569 km  Bearing: 207.492°
+Latitude: 52°31′31″N   52.52533292
+Longitude: 23°35′41″E   23.59461514
+Distance: 73.343 km  Bearing: 156.868°
+Latitude: 53°28′37″N   53.47680877
+Longitude: 22°06′15″E   22.10411156
+Distance: 80.4637 km  Bearing: 298.848°
+Latitude: 52°33′40″N   52.56107575
+Longitude: 24°13′16″E   24.221131
+Distance: 95.0567 km  Bearing: 131.539°
+Latitude: 52°21′59″N   52.36625009
+Longitude: 22°54′49″E   22.91368134
+Distance: 86.9398 km  Bearing: 191.498°
+Latitude: 53°45′02″N   53.75055526
+Longitude: 22°33′29″E   22.55816476
+Distance: 79.7662 km  Bearing: 329.767°
+Latitude: 53°21′21″N   53.35571531
+Longitude: 22°22′34″E   22.37623638
+Distance: 58.3049 km  Bearing: 295.521°
+Latitude: 52°49′59″N   52.83301607
+Longitude: 24°15′38″E   24.26051377
+Distance: 80.3331 km  Bearing: 114.06°
+Latitude: 53°45′05″N   53.75146442
+Longitude: 22°56′14″E   22.93726203
+Distance: 70.535 km  Bearing: 347.53°
+Latitude: 53°36′48″N   53.61335977
+Longitude: 23°43′33″E   23.72580829
+Distance: 65.0126 km  Bearing: 34.422°
+Latitude: 53°46′43″N   53.77861768
+Longitude: 23°19′59″E   23.33323127
+Distance: 72.6865 km  Bearing: 8.549°
+Latitude: 53°07′17″N   53.12152498
+Longitude: 23°43′04″E   23.71776932
+Distance: 36.656 km  Bearing: 91.687°
+Latitude: 53°04′26″N   53.07397754
+Longitude: 23°43′34″E   23.72617342
+Distance: 37.7819 km  Bearing: 99.696°
+Latitude: 53°10′16″N   53.17117238
+Longitude: 24°30′13″E   24.50374915
+Distance: 89.1437 km  Bearing: 86.7°
+Latitude: 53°16′49″N   53.28014888
+Longitude: 24°09′48″E   24.16328022
+Distance: 68.2518 km  Bearing: 75.678°
+Latitude: 53°19′46″N   53.32942984
+Longitude: 23°13′26″E   23.22393175
+Distance: 22.21 km  Bearing: 9.484°
+Latitude: 53°20′47″N   53.34646048
+Longitude: 23°50′16″E   23.8376588
+Distance: 50.4821 km  Bearing: 61.605°
+Latitude: 52°32′42″N   52.54502456
+Longitude: 23°53′11″E   23.88636274
+Distance: 81.1998 km  Bearing: 143.294°
+Latitude: 52°38′28″N   52.64109775
+Longitude: 23°54′23″E   23.90632478
+Distance: 73.735 km  Bearing: 137.542°
+Latitude: 52°17′11″N   52.28642065
+Longitude: 23°31′27″E   23.52412546
+Distance: 97.1025 km  Bearing: 165.584°
+Latitude: 52°42′23″N   52.70633931
+Longitude: 23°50′42″E   23.84503626
+Distance: 65.5971 km  Bearing: 135.997°
+Latitude: 53°42′16″N   53.70449179
+Longitude: 22°42′12″E   22.70335161
+Distance: 70.709 km  Bearing: 334.314°
+Latitude: 52°27′42″N   52.46154346
+Longitude: 22°20′41″E   22.344613
+Distance: 92.9596 km  Bearing: 216.933°
+Latitude: 53°40′31″N   53.6753322
+Longitude: 24°20′02″E   24.33401063
+Distance: 98.054 km  Bearing: 51.527°
+Latitude: 53°14′27″N   53.24092081
+Longitude: 24°05′46″E   24.09605416
+Distance: 62.9622 km  Bearing: 78.586°
+Latitude: 52°37′02″N   52.61731049
+Longitude: 23°15′27″E   23.25750789
+Distance: 57.6097 km  Bearing: 174.034°
+Latitude: 52°59′55″N   52.99861712
+Longitude: 22°37′21″E   22.62246063
+Distance: 39.4367 km  Bearing: 248.035°
+Latitude: 52°55′40″N   52.92777194
+Longitude: 22°22′58″E   22.38284184
+Distance: 57.2946 km  Bearing: 246.898°
+Latitude: 53°45′32″N   53.75892516
+Longitude: 23°21′10″E   23.35288178
+Distance: 70.7347 km  Bearing: 9.851°
+Latitude: 53°35′43″N   53.59535452
+Longitude: 23°06′46″E   23.11285473
+Distance: 51.6168 km  Bearing: 355.894°
+Latitude: 52°35′28″N   52.59100342
+Longitude: 23°28′47″E   23.4795923
+Distance: 63.7399 km  Bearing: 160.766°
+Latitude: 52°39′32″N   52.65886996
+Longitude: 24°16′59″E   24.28295422
+Distance: 91.4508 km  Bearing: 124.726°
+Latitude: 53°37′40″N   53.62781993
+Longitude: 22°42′04″E   22.70124637
+Distance: 63.2277 km  Bearing: 330.804°
+Latitude: 53°45′21″N   53.75595626
+Longitude: 22°07′08″E   22.11901619
+Distance: 98.2107 km  Bearing: 315.338°
+Latitude: 52°17′42″N   52.29486876
+Longitude: 23°22′39″E   23.37754212
+Distance: 94.2206 km  Bearing: 171.333°
+Latitude: 52°22′30″N   52.37504171
+Longitude: 22°30′55″E   22.51535711
+Distance: 95.0411 km  Bearing: 207.833°
+Latitude: 53°04′18″N   53.07177596
+Longitude: 22°00′07″E   22.00206616
+Distance: 78.2074 km  Bearing: 265.513°
+Latitude: 53°28′04″N   53.46769935
+Longitude: 22°09′40″E   22.1612005
+Distance: 76.6563 km  Bearing: 299.506°
+Latitude: 52°35′07″N   52.58539932
+Longitude: 23°24′50″E   23.41401209
+Distance: 63.0388 km  Bearing: 164.762°
+Latitude: 53°52′47″N   53.87967628
+Longitude: 22°21′44″E   22.36210957
+Distance: 98.7641 km  Bearing: 327.618°
+Latitude: 52°57′26″N   52.95721254
+Longitude: 21°45′53″E   21.76473597
+Distance: 95.8907 km  Bearing: 258.831°
+Latitude: 52°46′13″N   52.77039235
+Longitude: 23°52′23″E   23.87306456
+Distance: 62.0409 km  Bearing: 130.197°
+Latitude: 53°18′34″N   53.30938266
+Longitude: 23°34′43″E   23.57862786
+Distance: 33.6428 km  Bearing: 54.045°
+Latitude: 53°26′20″N   53.43898899
+Longitude: 24°15′41″E   24.26142664
+Distance: 80.25 km  Bearing: 64.425°
+Latitude: 53°39′25″N   53.65701055
+Longitude: 22°57′44″E   22.96208827
+Distance: 59.9304 km  Bearing: 346.856°
+Latitude: 52°22′19″N   52.37189239
+Longitude: 23°53′54″E   23.89842535
+Distance: 97.8216 km  Bearing: 149.57°
+Latitude: 52°25′54″N   52.43167854
+Longitude: 23°20′36″E   23.34345368
+Distance: 78.8286 km  Bearing: 171.36°
+Latitude: 53°37′23″N   53.62302797
+Longitude: 24°08′16″E   24.13789589
+Distance: 84.3256 km  Bearing: 49.295°
+Latitude: 53°31′21″N   53.5225721
+Longitude: 22°19′24″E   22.32331624
+Distance: 70.9726 km  Bearing: 308.024°
+Latitude: 53°07′41″N   53.12818384
+Longitude: 23°52′42″E   23.87840842
+Distance: 47.3555 km  Bearing: 90.295°
+Latitude: 53°00′17″N   53.00465193
+Longitude: 22°37′43″E   22.62868913
+Distance: 38.7982 km  Bearing: 248.717°
+Latitude: 52°18′27″N   52.30747619
+Longitude: 23°38′36″E   23.64331888
+Distance: 97.1709 km  Bearing: 160.605°
+Latitude: 53°08′33″N   53.14242065
+Longitude: 22°11′04″E   22.18446528
+Distance: 65.6906 km  Bearing: 271.357°
+Latitude: 52°34′57″N   52.58245529
+Longitude: 23°20′44″E   23.3456611
+Distance: 62.32 km  Bearing: 168.945°
+Latitude: 52°56′18″N   52.93839813
+Longitude: 22°29′55″E   22.49859827
+Distance: 49.7547 km  Bearing: 244.554°
+Latitude: 53°31′31″N   53.52537617
+Longitude: 22°40′45″E   22.67926669
+Distance: 54.4721 km  Bearing: 323.54°
+Latitude: 52°35′14″N   52.58722414
+Longitude: 22°10′26″E   22.17391982
+Distance: 90.2326 km  Bearing: 228.167°
+Latitude: 52°27′08″N   52.45219312
+Longitude: 24°07′27″E   24.12428442
+Distance: 99.2711 km  Bearing: 139.278°
+Latitude: 52°25′18″N   52.42165503
+Longitude: 22°35′06″E   22.58511593
+Distance: 88.2801 km  Bearing: 206.649°
+Latitude: 53°33′17″N   53.55462434
+Longitude: 23°43′36″E   23.72675186
+Distance: 59.8081 km  Bearing: 38.051°
+Latitude: 53°58′55″N   53.98184824
+Longitude: 22°41′02″E   22.68396403
+Distance: 99.7546 km  Bearing: 341.462°
+Latitude: 52°40′34″N   52.67611292
+Longitude: 22°37′56″E   22.63220655
+Distance: 62.2308 km  Bearing: 215.559°
+Latitude: 53°39′02″N   53.65051399
+Longitude: 23°07′11″E   23.11983332
+Distance: 57.7097 km  Bearing: 356.791°
+Latitude: 53°31′22″N   53.52276332
+Longitude: 22°55′11″E   22.91976083
+Distance: 46.4552 km  Bearing: 339.235°
+Latitude: 53°11′20″N   53.18887934
+Longitude: 24°11′58″E   24.19953433
+Distance: 69.0202 km  Bearing: 84.374°
+Latitude: 53°34′15″N   53.57087374
+Longitude: 23°39′01″E   23.65014888
+Distance: 58.2975 km  Bearing: 33.046°
+Latitude: 53°35′43″N   53.59540098
+Longitude: 22°28′43″E   22.47858964
+Distance: 68.9187 km  Bearing: 318.614°
+Latitude: 52°22′15″N   52.37077949
+Longitude: 22°39′14″E   22.65391435
+Distance: 91.5393 km  Bearing: 202.458°
+Latitude: 53°26′40″N   53.44453596
+Longitude: 23°49′42″E   23.82833568
+Distance: 55.9229 km  Bearing: 51.374°
+Latitude: 52°47′28″N   52.79107945
+Longitude: 24°22′42″E   24.37834501
+Distance: 89.4879 km  Bearing: 114.625°
+Latitude: 52°33′39″N   52.56079852
+Longitude: 22°28′35″E   22.47644261
+Distance: 78.7816 km  Bearing: 216.461°
+Latitude: 53°57′50″N   53.96386663
+Longitude: 23°42′05″E   23.70126821
+Distance: 98.9382 km  Bearing: 20.618°
+Latitude: 52°41′18″N   52.68838182
+Longitude: 23°28′57″E   23.4825654
+Distance: 53.6919 km  Bearing: 156.8°
+Latitude: 52°18′54″N   52.3149297
+Longitude: 23°29′55″E   23.49870377
+Distance: 93.6095 km  Bearing: 166.136°
+Latitude: 52°45′37″N   52.76037132
+Longitude: 23°06′12″E   23.1033712
+Distance: 41.6211 km  Bearing: 186.078°
+Latitude: 52°16′18″N   52.2716885
+Longitude: 22°55′19″E   22.92199216
+Distance: 97.1782 km  Bearing: 189.956°
+Latitude: 53°20′51″N   53.34753694
+Longitude: 22°06′06″E   22.10172764
+Distance: 74.9505 km  Bearing: 289.037°
+Latitude: 53°38′03″N   53.63404623
+Longitude: 22°31′57″E   22.53239699
+Distance: 69.9629 km  Bearing: 323.134°
+Latitude: 53°03′33″N   53.05910488
+Longitude: 23°42′40″E   23.71116767
+Distance: 37.1297 km  Bearing: 102.482°
+Latitude: 52°37′32″N   52.62556805
+Longitude: 22°57′50″E   22.9637716
+Distance: 58.0388 km  Bearing: 193.802°
+Latitude: 52°32′16″N   52.53771429
+Longitude: 22°34′06″E   22.56828415
+Distance: 77.49 km  Bearing: 211.622°
+Latitude: 53°52′11″N   53.86971807
+Longitude: 22°33′00″E   22.55006931
+Distance: 91.649 km  Bearing: 333.718°
+Latitude: 53°07′30″N   53.1249874
+Longitude: 23°49′37″E   23.82695895
+Distance: 43.9292 km  Bearing: 90.825°
+Latitude: 53°45′46″N   53.76281267
+Longitude: 22°09′39″E   22.16073554
+Distance: 96.8205 km  Bearing: 316.798°
+Latitude: 52°22′25″N   52.37351813
+Longitude: 22°25′38″E   22.42721689
+Distance: 98.0748 km  Bearing: 210.897°
+Latitude: 52°23′03″N   52.38423325
+Longitude: 22°24′13″E   22.40349916
+Distance: 97.8785 km  Bearing: 212.063°
+Latitude: 53°37′07″N   53.61854743
+Longitude: 21°58′54″E   21.9817487
+Distance: 95.5344 km  Bearing: 304.939°
+Latitude: 53°08′16″N   53.13777688
+Longitude: 24°12′41″E   24.21142434
+Distance: 69.5714 km  Bearing: 89.099°
+Latitude: 53°46′14″N   53.77043604
+Longitude: 22°34′59″E   22.58343412
+Distance: 80.8591 km  Bearing: 331.58°
+Latitude: 52°32′34″N   52.54267468
+Longitude: 24°13′53″E   24.23142448
+Distance: 96.9561 km  Bearing: 132.155°
+Latitude: 52°57′54″N   52.96512735
+Longitude: 24°35′02″E   24.58381643
+Distance: 96.4203 km  Bearing: 100.565°
+Latitude: 52°50′48″N   52.84672112
+Longitude: 24°21′15″E   24.35424065
+Distance: 85.4937 km  Bearing: 111.351°
+Latitude: 53°54′30″N   53.90833476
+Longitude: 23°11′06″E   23.18496671
+Distance: 86.3011 km  Bearing: 0.702°
+Latitude: 53°16′50″N   53.28042677
+Longitude: 23°30′53″E   23.5145996
+Distance: 28.3071 km  Bearing: 54.32°
+Latitude: 52°31′30″N   52.52490651
+Longitude: 22°27′58″E   22.46616203
+Distance: 82.4422 km  Bearing: 215.225°
+Latitude: 52°34′38″N   52.57721212
+Longitude: 23°36′54″E   23.61502383
+Distance: 68.6471 km  Bearing: 153.939°
+Latitude: 53°08′58″N   53.14932606
+Longitude: 23°24′33″E   23.40906682
+Distance: 16.1367 km  Bearing: 83.239°
+Latitude: 53°31′23″N   53.52302864
+Longitude: 23°25′18″E   23.42170237
+Distance: 46.5728 km  Bearing: 21.04°
+Latitude: 53°32′04″N   53.53434433
+Longitude: 24°11′58″E   24.19955524
+Distance: 81.7578 km  Bearing: 56.447°
+Latitude: 53°30′21″N   53.50577125
+Longitude: 23°10′51″E   23.18074484
+Distance: 41.5264 km  Bearing: 1.087°
+Latitude: 53°56′30″N   53.94176949
+Longitude: 22°41′24″E   22.68992509
+Distance: 95.4173 km  Bearing: 340.816°
+Latitude: 52°53′30″N   52.89179326
+Longitude: 23°49′49″E   23.83017264
+Distance: 51.7228 km  Bearing: 120.907°
+Latitude: 53°25′25″N   53.42364171
+Longitude: 23°49′36″E   23.82657627
+Distance: 54.4256 km  Bearing: 53.224°
+Latitude: 53°10′58″N   53.18278202
+Longitude: 23°08′56″E   23.14885395
+Distance: 5.7506 km  Bearing: 346.605°
+Latitude: 52°56′51″N   52.94742732
+Longitude: 24°03′51″E   24.06414712
+Distance: 63.3131 km  Bearing: 108.614°
+Latitude: 53°01′25″N   53.0235382
+Longitude: 22°53′08″E   22.88544566
+Distance: 22.4811 km  Bearing: 237.495°
+Latitude: 53°52′45″N   53.87907917
+Longitude: 23°23′59″E   23.39975378
+Distance: 84.4336 km  Bearing: 10.33°
+Latitude: 52°19′44″N   52.32893466
+Longitude: 23°38′48″E   23.64677563
+Distance: 94.9962 km  Bearing: 160.002°
+Latitude: 53°27′18″N   53.45498029
+Longitude: 23°19′07″E   23.31867689
+Distance: 37.227 km  Bearing: 15.46°
+Latitude: 52°48′19″N   52.80533479
+Longitude: 23°52′34″E   23.87597906
+Distance: 59.731 km  Bearing: 127.249°
+Latitude: 53°24′50″N   53.41383943
+Longitude: 22°06′44″E   22.11228894
+Distance: 76.9265 km  Bearing: 294.426°
+Latitude: 53°05′51″N   53.09747463
+Longitude: 21°43′26″E   21.72385291
+Distance: 96.5432 km  Bearing: 268.266°
+Latitude: 52°24′30″N   52.4083992
+Longitude: 23°45′30″E   23.75822552
+Distance: 89.7732 km  Bearing: 153.547°
+Latitude: 53°07′15″N   53.12091549
+Longitude: 23°21′02″E   23.35049751
+Distance: 12.1921 km  Bearing: 95.988°
+Latitude: 52°54′55″N   52.91538877
+Longitude: 24°01′41″E   24.02798353
+Distance: 62.343 km  Bearing: 112.445°
+Latitude: 52°28′46″N   52.47932967
+Longitude: 23°14′12″E   23.236597
+Distance: 72.7911 km  Bearing: 176.385°
+Latitude: 52°17′04″N   52.28458238
+Longitude: 23°18′21″E   23.30577629
+Distance: 94.7598 km  Bearing: 174.357°
+Latitude: 52°57′13″N   52.95371156
+Longitude: 24°14′58″E   24.24944997
+Distance: 74.9464 km  Bearing: 104.954°
+Latitude: 53°35′17″N   53.58815366
+Longitude: 23°09′16″E   23.15453152
+Distance: 50.6908 km  Bearing: 358.932°
+Latitude: 53°57′46″N   53.96283042
+Longitude: 23°22′04″E   23.36783318
+Distance: 93.2873 km  Bearing: 8.024°
+Latitude: 52°28′58″N   52.48264352
+Longitude: 22°14′50″E   22.24719538
+Distance: 95.2052 km  Bearing: 220.975°
+Latitude: 53°29′41″N   53.49478776
+Longitude: 23°53′25″E   23.89037175
+Distance: 62.6308 km  Bearing: 49.665°
+Latitude: 53°21′09″N   53.3524303
+Longitude: 22°08′45″E   22.14591944
+Distance: 72.3474 km  Bearing: 290.172°
+Latitude: 53°42′18″N   53.70488919
+Longitude: 24°10′40″E   24.17783455
+Distance: 92.3384 km  Bearing: 46.007°
+Latitude: 52°31′36″N   52.5265333
+Longitude: 22°26′44″E   22.44544688
+Distance: 83.1 km  Bearing: 216.091°
+Latitude: 53°25′36″N   53.4265312
+Longitude: 24°08′50″E   24.14710601
+Distance: 72.8153 km  Bearing: 62.919°
+Latitude: 52°46′23″N   52.77307577
+Longitude: 23°52′59″E   23.88314502
+Distance: 62.3634 km  Bearing: 129.582°
+Latitude: 52°19′16″N   52.32100753
+Longitude: 23°11′59″E   23.19998122
+Distance: 90.2824 km  Bearing: 178.656°
+Latitude: 53°27′55″N   53.4653173
+Longitude: 22°51′36″E   22.86002724
+Distance: 42.3298 km  Bearing: 331.115°
+Latitude: 54°00′59″N   54.01653896
+Longitude: 22°54′57″E   22.9159367
+Distance: 99.738 km  Bearing: 350.461°
+Latitude: 52°32′34″N   52.54268484
+Longitude: 24°02′14″E   24.03711626
+Distance: 87.7882 km  Bearing: 138.007°
+Latitude: 52°31′01″N   52.51683373
+Longitude: 23°54′40″E   23.91121426
+Distance: 84.7253 km  Bearing: 143.626°
+Latitude: 53°07′30″N   53.12494036
+Longitude: 22°45′44″E   22.76220602
+Distance: 27.1509 km  Bearing: 268.391°
+Latitude: 53°16′20″N   53.27215854
+Longitude: 23°56′12″E   23.9367084
+Distance: 53.4645 km  Bearing: 72.801°
+Latitude: 53°21′26″N   53.35735743
+Longitude: 24°24′10″E   24.40269609
+Distance: 85.8451 km  Bearing: 72.568°
+Latitude: 53°43′00″N   53.7166311
+Longitude: 23°29′42″E   23.49490978
+Distance: 68.4717 km  Bearing: 18.267°
+Latitude: 53°25′03″N   53.41758533
+Longitude: 24°25′58″E   24.43275701
+Distance: 89.8441 km  Bearing: 68.827°
+Latitude: 53°13′53″N   53.23150374
+Longitude: 21°41′58″E   21.69953129
+Distance: 98.5525 km  Bearing: 277.004°
+Latitude: 52°36′25″N   52.60707289
+Longitude: 22°02′06″E   22.03505442
+Distance: 95.9655 km  Bearing: 232.939°
+Latitude: 53°55′43″N   53.9286673
+Longitude: 23°22′39″E   23.37738974
+Distance: 89.6228 km  Bearing: 8.766°
+Latitude: 52°44′47″N   52.74649409
+Longitude: 22°12′58″E   22.2159922
+Distance: 76.958 km  Bearing: 236.473°
+Latitude: 53°08′09″N   53.13574713
+Longitude: 23°00′17″E   23.0048608
+Distance: 10.9483 km  Bearing: 271.963°
+Latitude: 53°28′13″N   53.47025222
+Longitude: 23°34′13″E   23.57039786
+Distance: 46.0845 km  Bearing: 35.232°
+Latitude: 52°49′33″N   52.82584496
+Longitude: 24°04′51″E   24.08072815
+Distance: 69.9471 km  Bearing: 118.819°
+Latitude: 52°57′18″N   52.95510318
+Longitude: 23°15′54″E   23.26507724
+Distance: 20.7529 km  Bearing: 161.897°
+Latitude: 53°00′30″N   53.00820944
+Longitude: 24°26′39″E   24.44411737
+Distance: 86.3374 km  Bearing: 98.703°
+Latitude: 52°20′21″N   52.33905302
+Longitude: 22°33′30″E   22.55833735
+Distance: 97.3576 km  Bearing: 205.224°
+Latitude: 52°43′48″N   52.72993547
+Longitude: 23°03′14″E   23.05392063
+Distance: 45.4325 km  Bearing: 189.81°
+Latitude: 52°50′27″N   52.84079982
+Longitude: 23°01′30″E   23.02503755
+Distance: 33.8421 km  Bearing: 196.588°
+Latitude: 53°29′43″N   53.4951869
+Longitude: 23°47′18″E   23.78846396
+Distance: 57.6429 km  Bearing: 45.337°
+Latitude: 53°39′01″N   53.65036189
+Longitude: 24°19′38″E   24.32720772
+Distance: 96.0256 km  Bearing: 52.678°
+Latitude: 53°46′13″N   53.7702632
+Longitude: 22°08′23″E   22.13968739
+Distance: 98.3789 km  Bearing: 316.553°
+Latitude: 52°36′23″N   52.60638841
+Longitude: 22°04′14″E   22.07041971
+Distance: 94.1411 km  Bearing: 232.008°
+Latitude: 52°53′57″N   52.89918597
+Longitude: 22°26′28″E   22.44099722
+Distance: 55.1837 km  Bearing: 242.242°
+Latitude: 53°33′21″N   53.55583755
+Longitude: 23°28′30″E   23.47507643
+Distance: 51.2907 km  Bearing: 23.235°
+Latitude: 52°46′58″N   52.78288999
+Longitude: 23°10′26″E   23.17379458
+Distance: 38.886 km  Bearing: 179.509°
+Latitude: 53°37′36″N   53.62657549
+Longitude: 24°05′10″E   24.0859997
+Distance: 81.9927 km  Bearing: 47.547°
+Latitude: 53°27′59″N   53.46652289
+Longitude: 22°53′33″E   22.89238203
+Distance: 41.4497 km  Bearing: 333.793°
+Latitude: 53°25′50″N   53.43046109
+Longitude: 21°46′55″E   21.78199318
+Distance: 97.9982 km  Bearing: 290.321°
+Latitude: 52°53′45″N   52.89584946
+Longitude: 24°23′18″E   24.38844582
+Distance: 85.7488 km  Bearing: 107.387°
+Latitude: 53°14′27″N   53.24091342
+Longitude: 23°18′32″E   23.30887588
+Distance: 15.2493 km  Bearing: 37.68°
+Latitude: 53°13′56″N   53.23230566
+Longitude: 21°44′30″E   21.74161478
+Distance: 95.7751 km  Bearing: 277.228°
+Latitude: 52°41′57″N   52.69911828
+Longitude: 22°14′13″E   22.23703331
+Distance: 78.923 km  Bearing: 232.729°
+Latitude: 53°49′14″N   53.82046889
+Longitude: 22°16′50″E   22.28058428
+Distance: 96.5019 km  Bearing: 322.817°
+Latitude: 52°48′08″N   52.80229274
+Longitude: 23°41′44″E   23.69544501
+Distance: 50.9237 km  Bearing: 135.943°
+Latitude: 52°16′50″N   52.28049199
+Longitude: 23°16′12″E   23.27006223
+Distance: 95.0096 km  Bearing: 175.842°
+Latitude: 52°56′10″N   52.93597863
+Longitude: 23°50′26″E   23.84045049
+Distance: 49.9554 km  Bearing: 115.678°
+Latitude: 53°19′16″N   53.32101089
+Longitude: 22°57′46″E   22.96268943
+Distance: 25.062 km  Bearing: 326.873°
+Latitude: 52°51′25″N   52.85682432
+Longitude: 22°56′38″E   22.94396044
+Distance: 34.1577 km  Bearing: 206.241°
+Latitude: 53°17′48″N   53.29673278
+Longitude: 23°07′14″E   23.12049734
+Distance: 18.5499 km  Bearing: 350.023°
+Latitude: 52°48′52″N   52.81433019
+Longitude: 24°15′28″E   24.25767857
+Distance: 81.0602 km  Bearing: 115.449°
+Latitude: 53°07′30″N   53.12486911
+Longitude: 23°32′44″E   23.54543683
+Distance: 25.1475 km  Bearing: 91.781°
+Latitude: 53°06′07″N   53.10183458
+Longitude: 23°47′31″E   23.79203374
+Distance: 41.7412 km  Bearing: 94.436°
+Latitude: 52°44′01″N   52.73350774
+Longitude: 24°14′02″E   24.2339756
+Distance: 84.0729 km  Bearing: 121.433°
+Latitude: 52°48′08″N   52.80213268
+Longitude: 22°53′25″E   22.89015329
+Distance: 41.2148 km  Bearing: 207.045°
+Latitude: 52°49′13″N   52.82036449
+Longitude: 24°31′27″E   24.52402939
+Distance: 97.1737 km  Bearing: 110.39°
+Latitude: 53°50′43″N   53.8452152
+Longitude: 23°17′51″E   23.29751373
+Distance: 79.7299 km  Bearing: 6.079°
+Latitude: 53°11′05″N   53.18458461
+Longitude: 23°10′27″E   23.17415225
+Distance: 5.8053 km  Bearing: 3.496°
+Latitude: 52°23′13″N   52.38699954
+Longitude: 22°43′14″E   22.72049795
+Distance: 88.2383 km  Bearing: 200.177°
+Latitude: 52°24′52″N   52.4144044
+Longitude: 23°34′30″E   23.5750296
+Distance: 84.4166 km  Bearing: 160.947°
+Latitude: 53°17′17″N   53.28810558
+Longitude: 23°16′05″E   23.26807861
+Distance: 18.528 km  Bearing: 20.863°
+Latitude: 53°51′13″N   53.85369239
+Longitude: 23°26′25″E   23.4402195
+Distance: 82.202 km  Bearing: 12.509°
+Latitude: 53°03′05″N   53.05152084
+Longitude: 24°13′26″E   24.22398882
+Distance: 71.0509 km  Bearing: 96.86°
+Latitude: 53°18′47″N   53.31297923
+Longitude: 23°41′51″E   23.69750852
+Distance: 40.5265 km  Bearing: 60.095°
+Latitude: 52°46′29″N   52.77465359
+Longitude: 23°47′39″E   23.79428717
+Distance: 57.7977 km  Bearing: 133.271°
+Latitude: 53°32′47″N   53.54638015
+Longitude: 23°55′58″E   23.93273088
+Distance: 68.5035 km  Bearing: 47.472°
+Latitude: 52°53′05″N   52.8846545
+Longitude: 22°37′30″E   22.6250341
+Distance: 45.6548 km  Bearing: 233.076°
+Latitude: 52°41′38″N   52.69379689
+Longitude: 22°57′34″E   22.95942391
+Distance: 50.7754 km  Bearing: 196.143°
+Latitude: 53°04′07″N   53.06853718
+Longitude: 23°08′23″E   23.13974794
+Distance: 7.3736 km  Bearing: 195.289°
+Latitude: 52°49′46″N   52.82953009
+Longitude: 23°29′55″E   23.49868253
+Distance: 40.2912 km  Bearing: 146.623°
+Latitude: 53°28′41″N   53.47803138
+Longitude: 24°08′21″E   24.13916224
+Distance: 75.0737 km  Bearing: 58.819°
+Latitude: 52°54′50″N   52.91384981
+Longitude: 22°46′53″E   22.78126717
+Distance: 35.5486 km  Bearing: 226.991°
+Latitude: 53°43′44″N   53.72880597
+Longitude: 22°43′36″E   22.72675115
+Distance: 72.5078 km  Bearing: 336.346°
+Latitude: 53°13′28″N   53.22435938
+Longitude: 24°06′35″E   24.10960471
+Distance: 63.5386 km  Bearing: 80.369°
+Latitude: 53°23′07″N   53.38521782
+Longitude: 23°45′03″E   23.75086699
+Distance: 47.8521 km  Bearing: 53.792°
+Latitude: 53°48′41″N   53.81142215
+Longitude: 23°28′51″E   23.48093256
+Distance: 78.2906 km  Bearing: 15.177°
+Latitude: 52°49′14″N   52.82043998
+Longitude: 24°01′52″E   24.03099633
+Distance: 67.37 km  Bearing: 120.665°
+Latitude: 53°02′55″N   53.04869552
+Longitude: 24°31′02″E   24.51725645
+Distance: 90.5498 km  Bearing: 95.368°
+Latitude: 52°52′52″N   52.88109206
+Longitude: 23°44′10″E   23.73602739
+Distance: 47.1468 km  Bearing: 126.149°
+Latitude: 53°27′26″N   53.45721048
+Longitude: 23°18′09″E   23.30255652
+Distance: 37.1955 km  Bearing: 13.773°
+Latitude: 53°30′32″N   53.50883176
+Longitude: 22°42′16″E   22.70439365
+Distance: 52.0035 km  Bearing: 323.789°
+Latitude: 53°30′36″N   53.50993538
+Longitude: 23°45′41″E   23.76133764
+Distance: 57.5502 km  Bearing: 42.92°
+Latitude: 53°32′04″N   53.53454631
+Longitude: 24°17′40″E   24.29440645
+Distance: 87.1122 km  Bearing: 58.663°
+Latitude: 52°31′33″N   52.52589222
+Longitude: 23°10′11″E   23.16975523
+Distance: 67.4695 km  Bearing: 179.947°
+Latitude: 53°31′38″N   53.52718472
+Longitude: 22°50′58″E   22.84945903
+Distance: 48.7578 km  Bearing: 334.336°
+Latitude: 52°45′55″N   52.76522485
+Longitude: 24°24′32″E   24.40884621
+Distance: 92.5969 km  Bearing: 115.681°
+Latitude: 53°15′15″N   53.25421412
+Longitude: 21°54′46″E   21.91277733
+Distance: 84.7877 km  Bearing: 279.691°
+Latitude: 53°04′28″N   53.07441928
+Longitude: 22°51′32″E   22.85882593
+Distance: 21.686 km  Bearing: 252.796°
+Latitude: 52°30′25″N   52.50704424
+Longitude: 23°13′39″E   23.22747102
+Distance: 69.6774 km  Bearing: 176.734°
+Latitude: 53°06′45″N   53.11259883
+Longitude: 21°53′21″E   21.88916768
+Distance: 85.4425 km  Bearing: 269.028°
+Latitude: 52°45′45″N   52.76237954
+Longitude: 23°25′25″E   23.42366109
+Distance: 44.5676 km  Bearing: 157.367°
+Latitude: 53°23′11″N   53.38651247
+Longitude: 22°59′47″E   22.99627926
+Distance: 30.4978 km  Bearing: 337.954°
+Latitude: 53°14′11″N   53.23650567
+Longitude: 23°07′20″E   23.12223725
+Distance: 11.9791 km  Bearing: 344.99°
+Latitude: 53°33′49″N   53.56369678
+Longitude: 23°39′18″E   23.65493798
+Distance: 57.8099 km  Bearing: 33.743°
+Latitude: 53°01′12″N   53.02008381
+Longitude: 22°20′17″E   22.33808433
+Distance: 56.9007 km  Bearing: 257.64°
+Latitude: 52°55′33″N   52.92588919
+Longitude: 21°54′40″E   21.91114241
+Distance: 87.2109 km  Bearing: 255.226°
+Latitude: 52°32′39″N   52.54423644
+Longitude: 22°06′15″E   22.10421529
+Distance: 96.9388 km  Bearing: 227.976°
+Latitude: 53°17′45″N   53.29571678
+Longitude: 23°26′17″E   23.43806518
+Distance: 25.5179 km  Bearing: 44.537°
+Latitude: 53°09′37″N   53.16020243
+Longitude: 21°41′55″E   21.69864032
+Distance: 98.1245 km  Bearing: 272.388°
+Latitude: 52°49′06″N   52.81844971
+Longitude: 24°00′51″E   24.01406623
+Distance: 66.5178 km  Bearing: 121.338°
+Latitude: 53°16′09″N   53.26922839
+Longitude: 22°15′01″E   22.25036404
+Distance: 63.0554 km  Bearing: 284.325°
+Latitude: 53°24′59″N   53.4165123
+Longitude: 22°57′33″E   22.95926226
+Distance: 34.5295 km  Bearing: 336.275°
+Latitude: 53°12′47″N   53.21308417
+Longitude: 24°24′20″E   24.40545828
+Distance: 82.9295 km  Bearing: 83.3°
+Latitude: 53°38′47″N   53.64649558
+Longitude: 23°36′11″E   23.6030748
+Distance: 64.0168 km  Bearing: 26.566°
+Latitude: 52°43′09″N   52.71908395
+Longitude: 23°41′51″E   23.69750621
+Distance: 58.059 km  Bearing: 142.159°
+Latitude: 53°43′48″N   53.72995397
+Longitude: 22°27′15″E   22.45428274
+Distance: 81.5975 km  Bearing: 324.815°
+Latitude: 53°42′18″N   53.70512898
+Longitude: 23°46′23″E   23.77308064
+Distance: 75.239 km  Bearing: 31.921°
+Latitude: 52°50′15″N   52.83736334
+Longitude: 22°11′56″E   22.19895528
+Distance: 72.7681 km  Bearing: 243.574°
+Latitude: 53°09′43″N   53.16204814
+Longitude: 22°13′14″E   22.22063949
+Distance: 63.3386 km  Bearing: 273.355°
+Latitude: 52°55′27″N   52.9242101
+Longitude: 23°03′16″E   23.05453619
+Distance: 24.3953 km  Bearing: 198.312°
+Latitude: 52°44′11″N   52.73652044
+Longitude: 21°50′12″E   21.83661477
+Distance: 99.578 km  Bearing: 244.283°
+Latitude: 53°12′52″N   53.21436748
+Longitude: 21°44′27″E   21.7409177
+Distance: 95.6304 km  Bearing: 276.036°
+Latitude: 53°08′29″N   53.1413633
+Longitude: 24°38′06″E   24.63502756
+Distance: 97.8349 km  Bearing: 88.835°
+Latitude: 53°10′45″N   53.17912632
+Longitude: 23°42′56″E   23.71548329
+Distance: 36.8259 km  Bearing: 81.684°
+Latitude: 52°43′16″N   52.72098421
+Longitude: 23°38′02″E   23.63377284
+Distance: 55.3779 km  Bearing: 145.555°
+Latitude: 52°29′20″N   52.48901738
+Longitude: 23°56′51″E   23.94751472
+Distance: 88.6724 km  Bearing: 143.506°
+Latitude: 53°45′36″N   53.75988873
+Longitude: 23°39′22″E   23.65602312
+Distance: 76.8843 km  Bearing: 24.624°
+Latitude: 53°28′42″N   53.47837813
+Longitude: 22°30′12″E   22.50337201
+Distance: 58.6196 km  Bearing: 311.284°
+Latitude: 53°12′55″N   53.2153334
+Longitude: 23°46′40″E   23.777667
+Distance: 41.6217 km  Bearing: 76.966°
+Latitude: 52°49′59″N   52.83299536
+Longitude: 23°19′41″E   23.3281868
+Distance: 34.9788 km  Bearing: 162.175°
+Latitude: 53°08′19″N   53.13867793
+Longitude: 23°42′58″E   23.71613807
+Distance: 36.5261 km  Bearing: 88.701°
+Latitude: 53°04′45″N   53.07915928
+Longitude: 23°36′57″E   23.61587677
+Distance: 30.4338 km  Bearing: 101.06°
+Latitude: 53°17′27″N   53.29074625
+Longitude: 22°07′52″E   22.13119104
+Distance: 71.3224 km  Bearing: 284.703°
+Latitude: 52°23′54″N   52.39826661
+Longitude: 22°53′44″E   22.89564775
+Distance: 83.7088 km  Bearing: 192.797°
+Latitude: 53°17′48″N   53.29654943
+Longitude: 21°59′55″E   21.99862183
+Distance: 80.0485 km  Bearing: 283.645°
+Latitude: 53°07′48″N   53.13006896
+Longitude: 24°20′26″E   24.34041749
+Distance: 78.1836 km  Bearing: 89.729°
+Latitude: 53°00′35″N   53.00984891
+Longitude: 23°28′32″E   23.47559365
+Distance: 24.6231 km  Bearing: 123.518°
+Latitude: 53°27′25″N   53.45682183
+Longitude: 23°55′52″E   23.93107468
+Distance: 62.2019 km  Bearing: 54.248°
+Latitude: 53°31′47″N   53.52983312
+Longitude: 22°28′14″E   22.47042542
+Distance: 64.0723 km  Bearing: 313.891°
+Latitude: 52°17′20″N   52.28894086
+Longitude: 22°53′47″E   22.89626078
+Distance: 95.6055 km  Bearing: 191.185°
+Latitude: 53°03′17″N   53.05458543
+Longitude: 23°28′27″E   23.47420817
+Distance: 22.1605 km  Bearing: 112.895°
+Latitude: 52°54′10″N   52.90273653
+Longitude: 22°06′21″E   22.10570873
+Distance: 75.5845 km  Bearing: 250.665°
+Latitude: 53°16′04″N   53.26773957
+Longitude: 22°53′53″E   22.8979639
+Distance: 23.4952 km  Bearing: 309.921°
+Latitude: 52°57′26″N   52.95731305
+Longitude: 23°31′10″E   23.51941424
+Distance: 30.4822 km  Bearing: 129.592°
+Latitude: 53°30′32″N   53.50890174
+Longitude: 24°21′17″E   24.35476823
+Distance: 89.2233 km  Bearing: 61.541°
+Latitude: 52°31′54″N   52.53158346
+Longitude: 24°01′29″E   24.02473384
+Distance: 88.1746 km  Bearing: 138.946°
+Latitude: 53°13′37″N   53.22702276
+Longitude: 23°53′39″E   23.89411999
+Distance: 49.4761 km  Bearing: 77.44°
+Latitude: 53°33′35″N   53.55975162
+Longitude: 24°06′12″E   24.10336109
+Distance: 78.1582 km  Bearing: 52.179°
+Latitude: 52°19′27″N   52.32421075
+Longitude: 23°22′31″E   23.37517687
+Distance: 90.9696 km  Bearing: 171.13°
+Latitude: 53°09′49″N   53.1634905
+Longitude: 23°45′57″E   23.7658051
+Distance: 39.9712 km  Bearing: 84.812°
+Latitude: 52°55′25″N   52.92369459
+Longitude: 21°48′08″E   21.80213871
+Distance: 94.3261 km  Bearing: 256.294°
+Latitude: 53°06′58″N   53.11610897
+Longitude: 22°57′58″E   22.96601532
+Distance: 13.6595 km  Bearing: 262.416°
+Latitude: 53°03′46″N   53.06290797
+Longitude: 23°31′15″E   23.52072215
+Distance: 24.7423 km  Bearing: 108.087°
+Latitude: 53°45′59″N   53.76630767
+Longitude: 23°50′24″E   23.84007264
+Distance: 83.3461 km  Bearing: 31.97°
+Latitude: 52°43′51″N   52.73074787
+Longitude: 23°34′31″E   23.57520571
+Distance: 52.3345 km  Bearing: 148.467°
+Latitude: 53°44′23″N   53.73958781
+Longitude: 24°09′21″E   24.15594851
+Distance: 94.0065 km  Bearing: 43.691°
+Latitude: 53°00′05″N   53.00134296
+Longitude: 23°34′17″E   23.57152099
+Distance: 30.6115 km  Bearing: 118.297°
+Latitude: 53°08′07″N   53.13520551
+Longitude: 23°28′24″E   23.47339122
+Distance: 20.3249 km  Bearing: 89.026°
+Latitude: 52°36′19″N   52.60531131
+Longitude: 22°55′22″E   22.92265919
+Distance: 60.921 km  Bearing: 195.841°
+Latitude: 53°05′38″N   53.09382148
+Longitude: 23°12′08″E   23.20211665
+Distance: 4.8407 km  Bearing: 152.668°
+Latitude: 53°39′10″N   53.652668
+Longitude: 24°21′17″E   24.35459525
+Distance: 97.6351 km  Bearing: 53.185°
+Latitude: 53°22′03″N   53.36740065
+Longitude: 24°34′36″E   24.57675757
+Distance: 97.2693 km  Bearing: 73.855°
+Latitude: 53°46′33″N   53.77590439
+Longitude: 23°43′39″E   23.72743259
+Distance: 80.5614 km  Bearing: 27.113°
+Latitude: 53°30′14″N   53.50375177
+Longitude: 22°26′32″E   22.44214937
+Distance: 63.5332 km  Bearing: 310.829°
+Latitude: 53°36′13″N   53.60371591
+Longitude: 24°25′58″E   24.43278034
+Distance: 98.9084 km  Bearing: 57.495°
+Latitude: 52°59′32″N   52.99210269
+Longitude: 22°01′13″E   22.02036389
+Distance: 78.3364 km  Bearing: 258.962°
+Latitude: 53°11′46″N   53.19605328
+Longitude: 22°19′53″E   22.33132693
+Distance: 56.2931 km  Bearing: 277.55°
+Latitude: 52°41′08″N   52.68569281
+Longitude: 23°48′30″E   23.80827147
+Distance: 65.6452 km  Bearing: 138.947°
+Latitude: 53°56′16″N   53.93784967
+Longitude: 22°55′22″E   22.92283899
+Distance: 91.0413 km  Bearing: 349.809°
+Latitude: 53°42′59″N   53.71646614
+Longitude: 24°03′46″E   24.06274085
+Distance: 87.9135 km  Bearing: 42.01°
+Latitude: 53°09′47″N   53.16317754
+Longitude: 22°01′38″E   22.02719959
+Distance: 76.2325 km  Bearing: 273.023°
+Latitude: 53°42′16″N   53.70436544
+Longitude: 22°44′37″E   22.74368822
+Distance: 69.5711 km  Bearing: 336.274°
+Latitude: 53°14′10″N   53.23612457
+Longitude: 23°14′16″E   23.23784998
+Distance: 12.4108 km  Bearing: 21.726°
+Latitude: 53°46′04″N   53.76772015
+Longitude: 22°28′17″E   22.47131079
+Distance: 84.4191 km  Bearing: 327.098°
+Latitude: 53°12′49″N   53.21367167
+Longitude: 23°30′36″E   23.50988914
+Distance: 24.4647 km  Bearing: 68.204°
+Latitude: 53°40′54″N   53.68158531
+Longitude: 23°30′09″E   23.50261694
+Distance: 64.9599 km  Bearing: 19.785°
+Latitude: 53°25′37″N   53.42707977
+Longitude: 24°33′42″E   24.56153662
+Distance: 98.2418 km  Bearing: 69.96°
+Latitude: 53°17′32″N   53.29214064
+Longitude: 22°24′01″E   22.40039791
+Distance: 54.1769 km  Bearing: 289.441°
+Latitude: 52°31′23″N   52.52292603
+Longitude: 23°08′18″E   23.138205
+Distance: 67.8306 km  Bearing: 181.752°
+Latitude: 53°14′40″N   53.24450097
+Longitude: 24°13′57″E   24.23259551
+Distance: 71.9797 km  Bearing: 79.607°
+Latitude: 52°58′10″N   52.9695618
+Longitude: 24°19′54″E   24.3317983
+Distance: 79.8365 km  Bearing: 102.654°
+Latitude: 53°09′43″N   53.16206581
+Longitude: 21°45′15″E   21.75419474
+Distance: 94.4255 km  Bearing: 272.562°
+Latitude: 52°39′37″N   52.66015528
+Longitude: 22°26′13″E   22.43682984
+Distance: 71.9191 km  Bearing: 223.366°
+Latitude: 52°57′21″N   52.95577236
+Longitude: 24°11′22″E   24.1894628
+Distance: 71.0215 km  Bearing: 105.658°
+Latitude: 52°39′41″N   52.66129743
+Longitude: 23°53′31″E   23.8920544
+Distance: 71.4236 km  Bearing: 136.914°
+Latitude: 53°48′27″N   53.80737066
+Longitude: 23°32′33″E   23.54251982
+Distance: 79.0362 km  Bearing: 18.091°
+Latitude: 52°21′43″N   52.361827
+Longitude: 23°33′13″E   23.55354119
+Distance: 89.5454 km  Bearing: 163.033°
+Latitude: 53°34′19″N   53.57181571
+Longitude: 23°51′08″E   23.85222193
+Distance: 66.6792 km  Bearing: 42.602°
+Latitude: 52°17′26″N   52.29057199
+Longitude: 23°19′49″E   23.33014454
+Distance: 94.2719 km  Bearing: 173.315°
+Latitude: 53°49′18″N   53.82157263
+Longitude: 22°22′27″E   22.37424344
+Distance: 92.9556 km  Bearing: 325.858°
+Latitude: 52°57′06″N   52.95162535
+Longitude: 22°28′05″E   22.46813672
+Distance: 50.9932 km  Bearing: 247.046°
+Latitude: 53°17′54″N   53.29830474
+Longitude: 22°04′18″E   22.07158208
+Distance: 75.3714 km  Bearing: 284.603°
+Latitude: 53°36′27″N   53.60744373
+Longitude: 23°56′50″E   23.94735007
+Distance: 73.8904 km  Bearing: 44.05°
+Latitude: 53°24′59″N   53.41626687
+Longitude: 22°48′00″E   22.80006603
+Distance: 39.9733 km  Bearing: 322.297°
+Latitude: 52°39′51″N   52.66419129
+Longitude: 21°55′20″E   21.92229264
+Distance: 98.5283 km  Bearing: 238.585°
+Latitude: 53°08′13″N   53.13692884
+Longitude: 22°06′39″E   22.11089283
+Distance: 70.5965 km  Bearing: 270.824°
+Latitude: 53°41′39″N   53.69422715
+Longitude: 24°07′32″E   24.1254739
+Distance: 89.0258 km  Bearing: 45.044°
+Latitude: 53°59′00″N   53.98321555
+Longitude: 23°38′45″E   23.64574593
+Distance: 99.7309 km  Bearing: 18.226°
+Latitude: 53°00′01″N   53.00024846
+Longitude: 23°11′44″E   23.19551991
+Distance: 14.8163 km  Bearing: 173.077°
+Latitude: 52°37′00″N   52.61671138
+Longitude: 21°58′30″E   21.97503293
+Distance: 98.5571 km  Bearing: 234.881°
+Latitude: 53°16′45″N   53.27917222
+Longitude: 22°06′48″E   22.11338579
+Distance: 72.1797 km  Bearing: 283.486°
+Latitude: 53°38′28″N   53.64115338
+Longitude: 23°41′57″E   23.69902781
+Distance: 66.6173 km  Bearing: 31.654°
+Latitude: 53°32′03″N   53.53424357
+Longitude: 22°33′45″E   22.56258282
+Distance: 60.1517 km  Bearing: 318.22°
+Latitude: 53°30′28″N   53.50783225
+Longitude: 22°55′09″E   22.91916433
+Distance: 44.923 km  Bearing: 338.43°
+Latitude: 53°34′37″N   53.57695821
+Longitude: 24°07′14″E   24.12048356
+Distance: 80.2186 km  Bearing: 51.575°
+Latitude: 53°43′00″N   53.71654767
+Longitude: 23°51′20″E   23.85547079
+Distance: 79.316 km  Bearing: 34.737°
+Latitude: 53°34′58″N   53.58276491
+Longitude: 22°53′05″E   22.88483031
+Distance: 53.5135 km  Bearing: 339.485°
+Latitude: 52°31′44″N   52.52887525
+Longitude: 23°56′37″E   23.94348912
+Distance: 84.9538 km  Bearing: 141.902°
+Latitude: 53°34′59″N   53.58297443
+Longitude: 23°09′02″E   23.15065002
+Distance: 50.1204 km  Bearing: 358.627°
+Latitude: 52°17′51″N   52.29757178
+Longitude: 22°55′17″E   22.92150258
+Distance: 94.348 km  Bearing: 190.272°
+Latitude: 53°49′59″N   53.83311977
+Longitude: 22°22′04″E   22.36789072
+Distance: 94.2492 km  Bearing: 326.095°
+Latitude: 53°30′50″N   53.51390252
+Longitude: 22°28′27″E   22.47412248
+Distance: 62.6885 km  Bearing: 312.866°
+Latitude: 52°28′02″N   52.46716868
+Longitude: 22°10′16″E   22.17110995
+Distance: 99.8875 km  Bearing: 222.596°
+Latitude: 52°47′33″N   52.79257677
+Longitude: 24°19′59″E   24.33344108
+Distance: 86.6993 km  Bearing: 115.387°
+Latitude: 53°30′14″N   53.50382148
+Longitude: 23°29′12″E   23.48678463
+Distance: 46.391 km  Bearing: 26.962°
+Latitude: 53°07′05″N   53.11798185
+Longitude: 21°52′18″E   21.87177841
+Distance: 86.5841 km  Bearing: 269.451°
+Latitude: 53°05′17″N   53.08812062
+Longitude: 22°22′34″E   22.37602866
+Distance: 53.1625 km  Bearing: 264.991°
+Latitude: 53°04′04″N   53.06777386
+Longitude: 23°16′53″E   23.28143732
+Distance: 10.4093 km  Bearing: 133.704°
+Latitude: 53°09′25″N   53.15702628
+Longitude: 24°21′21″E   24.35594233
+Distance: 79.2413 km  Bearing: 87.551°
+Latitude: 53°31′13″N   53.52040568
+Longitude: 23°57′04″E   23.95111763
+Distance: 67.5434 km  Bearing: 49.985°
+Latitude: 53°37′26″N   53.62393308
+Longitude: 22°27′44″E   22.46221007
+Distance: 72.0136 km  Bearing: 319.662°
+Latitude: 52°20′02″N   52.33380465
+Longitude: 23°05′33″E   23.09259894
+Distance: 88.9829 km  Bearing: 183.339°
+Latitude: 53°18′30″N   53.30826225
+Longitude: 24°28′29″E   24.47467224
+Distance: 89.1317 km  Bearing: 76.807°
+Latitude: 53°17′15″N   53.28753882
+Longitude: 23°27′51″E   23.46420195
+Distance: 26.1629 km  Bearing: 48.646°
+Latitude: 53°32′55″N   53.54873709
+Longitude: 22°03′27″E   22.05752185
+Distance: 87.1194 km  Bearing: 302.546°
+Latitude: 53°08′29″N   53.14143559
+Longitude: 24°05′49″E   24.09700857
+Distance: 61.9397 km  Bearing: 88.708°
+Latitude: 52°19′22″N   52.32273021
+Longitude: 23°15′38″E   23.26045668
+Distance: 90.2776 km  Bearing: 176.044°
+Latitude: 52°41′09″N   52.685967
+Longitude: 23°06′17″E   23.10485838
+Distance: 49.85 km  Bearing: 184.964°
+Latitude: 53°12′27″N   53.20751673
+Longitude: 23°06′44″E   23.11222206
+Distance: 9.1592 km  Bearing: 335.683°
+Latitude: 53°37′53″N   53.63134647
+Longitude: 23°06′41″E   23.11140865
+Distance: 55.6168 km  Bearing: 356.095°
+Latitude: 52°26′23″N   52.43981848
+Longitude: 23°56′12″E   23.93663327
+Distance: 92.7522 km  Bearing: 145.856°
+Latitude: 53°20′29″N   53.3412864
+Longitude: 22°47′06″E   22.7849941
+Distance: 34.5293 km  Bearing: 312.42°
+Latitude: 52°15′40″N   52.26118336
+Longitude: 23°06′41″E   23.11149077
+Distance: 96.9891 km  Bearing: 182.307°
+Latitude: 52°43′56″N   52.73230319
+Longitude: 22°27′17″E   22.45465788
+Distance: 65.3736 km  Bearing: 227.374°
+Latitude: 53°23′11″N   53.38633072
+Longitude: 24°32′21″E   24.53911516
+Distance: 95.4408 km  Bearing: 72.245°
+Latitude: 53°10′13″N   53.17022772
+Longitude: 22°21′54″E   22.36512155
+Distance: 53.7741 km  Bearing: 274.799°
+Latitude: 53°21′16″N   53.35438001
+Longitude: 22°26′26″E   22.44068163
+Distance: 54.3877 km  Bearing: 297.278°
+Latitude: 52°37′25″N   52.62362475
+Longitude: 23°02′35″E   23.04312166
+Distance: 57.2247 km  Bearing: 188.531°
+Latitude: 53°00′41″N   53.01149011
+Longitude: 23°48′57″E   23.81575379
+Distance: 45.2769 km  Bearing: 107.033°
+Latitude: 53°44′00″N   53.73326301
+Longitude: 24°16′18″E   24.27155911
+Distance: 99.0159 km  Bearing: 47.116°
+Latitude: 53°41′50″N   53.69735065
+Longitude: 23°46′30″E   23.77488693
+Distance: 74.5744 km  Bearing: 32.355°
+Latitude: 52°31′17″N   52.52144168
+Longitude: 24°03′59″E   24.06644235
+Distance: 90.8729 km  Bearing: 138.05°
+Latitude: 53°23′42″N   53.3949256
+Longitude: 23°45′59″E   23.7665491
+Distance: 49.3278 km  Bearing: 53.479°
+Latitude: 53°42′41″N   53.71138378
+Longitude: 23°06′28″E   23.10768078
+Distance: 64.5158 km  Bearing: 356.422°
+Latitude: 53°17′48″N   53.29665075
+Longitude: 22°07′15″E   22.12079028
+Distance: 72.1527 km  Bearing: 285.078°
+Latitude: 52°52′27″N   52.87405231
+Longitude: 23°29′59″E   23.49973453
+Distance: 36.2875 km  Bearing: 142.254°
+Latitude: 52°43′41″N   52.72793274
+Longitude: 22°45′22″E   22.75608612
+Distance: 52.8256 km  Bearing: 211.756°
+Latitude: 52°51′16″N   52.85441284
+Longitude: 23°48′55″E   23.81523317
+Distance: 53.191 km  Bearing: 125.296°
+Latitude: 52°30′55″N   52.51538372
+Longitude: 23°58′39″E   23.97756502
+Distance: 87.5524 km  Bearing: 141.302°
+Latitude: 53°45′40″N   53.761208
+Longitude: 23°39′17″E   23.65473956
+Distance: 76.9817 km  Bearing: 24.521°
+Latitude: 53°42′02″N   53.70050205
+Longitude: 22°45′04″E   22.75108749
+Distance: 68.9806 km  Bearing: 336.498°
+Latitude: 53°17′02″N   53.28378138
+Longitude: 24°26′59″E   24.44961027
+Distance: 86.9603 km  Bearing: 78.33°
+Latitude: 52°56′02″N   52.93392432
+Longitude: 24°33′22″E   24.55617529
+Distance: 95.3839 km  Bearing: 102.833°
+Latitude: 53°35′02″N   53.58392375
+Longitude: 22°56′52″E   22.94778884
+Distance: 52.3115 km  Bearing: 343.798°
+Latitude: 53°40′32″N   53.6755072
+Longitude: 23°51′01″E   23.85014344
+Distance: 75.4238 km  Bearing: 36.523°
+Latitude: 53°18′02″N   53.30054647
+Longitude: 24°31′09″E   24.51909759
+Distance: 91.8498 km  Bearing: 77.718°
+Latitude: 52°48′11″N   52.80311934
+Longitude: 22°49′37″E   22.82691437
+Distance: 43.2054 km  Bearing: 212.151°
+Latitude: 53°10′17″N   53.1714185
+Longitude: 23°50′22″E   23.83933846
+Distance: 44.9324 km  Bearing: 84.202°
+Latitude: 52°50′54″N   52.84839048
+Longitude: 24°34′47″E   24.57979624
+Distance: 99.6098 km  Bearing: 107.931°
+Latitude: 52°51′37″N   52.86031619
+Longitude: 23°51′29″E   23.85798897
+Distance: 55.179 km  Bearing: 122.997°
+Latitude: 52°38′21″N   52.63903213
+Longitude: 24°00′40″E   24.01115112
+Distance: 78.7911 km  Bearing: 133.817°
+Latitude: 53°04′07″N   53.0685284
+Longitude: 23°43′22″E   23.72271255
+Distance: 37.6664 km  Bearing: 100.665°
+Latitude: 52°26′05″N   52.43465616
+Longitude: 23°07′25″E   23.12356703
+Distance: 77.677 km  Bearing: 182.265°
+Latitude: 53°10′05″N   53.16796944
+Longitude: 24°16′06″E   24.26820251
+Distance: 73.4378 km  Bearing: 86.48°
+Latitude: 52°57′48″N   52.9634183
+Longitude: 22°48′22″E   22.80609192
+Distance: 30.6905 km  Bearing: 232.358°
+Latitude: 53°49′11″N   53.8196323
+Longitude: 23°45′44″E   23.76221186
+Distance: 85.9306 km  Bearing: 26.962°
+Latitude: 53°00′54″N   53.01511388
+Longitude: 22°12′41″E   22.21140245
+Distance: 65.2969 km  Bearing: 258.85°
+Latitude: 52°39′23″N   52.65631776
+Longitude: 24°23′34″E   24.39283995
+Distance: 97.7256 km  Bearing: 122.327°
+Latitude: 52°41′37″N   52.69349007
+Longitude: 22°44′50″E   22.74715574
+Distance: 56.428 km  Bearing: 210.25°
+Latitude: 53°02′16″N   53.03782717
+Longitude: 23°08′11″E   23.13649372
+Distance: 10.7483 km  Bearing: 191.611°
+Latitude: 53°50′18″N   53.83846829
+Longitude: 23°00′20″E   23.00549891
+Distance: 79.2641 km  Bearing: 352.227°
+Latitude: 52°19′44″N   52.32875797
+Longitude: 22°42′09″E   22.70237962
+Distance: 94.7557 km  Bearing: 199.55°
+Latitude: 52°27′36″N   52.46011778
+Longitude: 22°28′27″E   22.47409467
+Distance: 88.1804 km  Bearing: 212.273°
+Latitude: 53°57′51″N   53.96419528
+Longitude: 23°01′42″E   23.02828251
+Distance: 92.9728 km  Bearing: 354.323°
+Latitude: 53°27′30″N   53.45845133
+Longitude: 23°15′12″E   23.25324752
+Distance: 36.6873 km  Bearing: 8.764°
+Latitude: 52°42′16″N   52.70443678
+Longitude: 24°18′42″E   24.3117088
+Distance: 90.2274 km  Bearing: 121.391°
+Latitude: 52°37′23″N   52.62299518
+Longitude: 22°26′00″E   22.43323792
+Distance: 75.1633 km  Bearing: 221.361°
+Latitude: 53°23′50″N   53.3972684
+Longitude: 23°59′18″E   23.98830283
+Distance: 61.9616 km  Bearing: 61.293°
+Latitude: 53°56′39″N   53.9441392
+Longitude: 22°53′48″E   22.89663094
+Distance: 92.0523 km  Bearing: 348.837°
+Latitude: 53°35′42″N   53.59495303
+Longitude: 23°49′32″E   23.82568101
+Distance: 67.4272 km  Bearing: 40.02°
+Latitude: 53°39′10″N   53.65273068
+Longitude: 23°27′33″E   23.45918497
+Distance: 60.9849 km  Bearing: 18.291°
+Latitude: 52°17′09″N   52.28590887
+Longitude: 22°57′59″E   22.96660557
+Distance: 95.1429 km  Bearing: 188.316°
+Latitude: 52°58′08″N   52.96875888
+Longitude: 22°54′59″E   22.91636982
+Distance: 24.8309 km  Bearing: 222.929°
+Latitude: 52°32′10″N   52.53605508
+Longitude: 23°59′00″E   23.9834363
+Distance: 86.0042 km  Bearing: 140.149°
+Latitude: 53°29′10″N   53.48612723
+Longitude: 22°05′04″E   22.08446494
+Distance: 82.099 km  Bearing: 299.06°
+Latitude: 53°16′26″N   53.27379692
+Longitude: 22°32′29″E   22.54149854
+Distance: 44.6523 km  Bearing: 290.86°
