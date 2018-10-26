@@ -1,0 +1,16 @@
+{
+  "name": "dist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "\u001b[B\u001b[As) server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.1",
+    "express": "^4.16.2",
+    "heroku-ssl-redirect": "0.0.4"
+  }
+}
