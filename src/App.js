@@ -7,6 +7,7 @@ import Typography from '@material-ui/core/Typography';
 import './App.css'
 import {
   BrowserRouter,
+  HashRouter ,
   Route
 } from 'react-router-dom';
 import MenuComponent from './pages/MenuComponent';
@@ -20,7 +21,7 @@ class App extends Component {
 
   render() {
     return (
-      <BrowserRouter basename={process.env.PUBLIC_URL}>
+      <HashRouter basename={process.env.PUBLIC_URL}>
         <div className="App">
           <AppBar position="static">
             <Toolbar>                  
@@ -45,7 +46,7 @@ class App extends Component {
           </Grid>
           
         </div>
-        </BrowserRouter>            
+        </HashRouter>            
     );
   }
 }
