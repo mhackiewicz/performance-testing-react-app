@@ -6,7 +6,7 @@ import Paper from '@material-ui/core/Paper';
 import Typography from '@material-ui/core/Typography';
 import './App.css'
 import {
-  BrowserRouter as Router,
+  BrowserRouter,
   Route
 } from 'react-router-dom';
 import MenuComponent from './pages/MenuComponent';
@@ -20,7 +20,7 @@ class App extends Component {
 
   render() {
     return (
-      <Router basename={process.env.PUBLIC_URL}>
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <div className="App">
           <AppBar position="static">
             <Toolbar>                  
@@ -45,7 +45,7 @@ class App extends Component {
           </Grid>
           
         </div>
-        </Router>            
+        </BrowserRouter>            
     );
   }
 }

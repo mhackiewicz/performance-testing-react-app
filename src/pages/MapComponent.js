@@ -49,6 +49,7 @@ class MapComponent extends Component {
             <BackButton goBack={this.props.history.goBack}/>
             <div>
                 <Map
+                    // eslint-disable-next-line
                     style={"mapbox://styles/mapbox/streets-v8"}
                     center={[this.state.location[0].longitude, this.state.location[0].latitude]}
                     zoom={[6]}
