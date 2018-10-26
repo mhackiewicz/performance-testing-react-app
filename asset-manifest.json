@@ -1,0 +1,15 @@
+{
+  "main.css": "/pwa-app/static/css/main.40bb0831.chunk.css",
+  "main.js": "/pwa-app/static/js/main.61769acf.chunk.js",
+  "main.js.map": "/pwa-app/static/js/main.61769acf.chunk.js.map",
+  "static/css/1.9fb286e6.chunk.css": "/pwa-app/static/css/1.9fb286e6.chunk.css",
+  "static/js/1.e024e23f.chunk.js": "/pwa-app/static/js/1.e024e23f.chunk.js",
+  "static/js/1.e024e23f.chunk.js.map": "/pwa-app/static/js/1.e024e23f.chunk.js.map",
+  "runtime~main.js": "/pwa-app/static/js/runtime~main.89bf7b87.js",
+  "runtime~main.js.map": "/pwa-app/static/js/runtime~main.89bf7b87.js.map",
+  "static/css/1.9fb286e6.chunk.css.map": "/pwa-app/static/css/1.9fb286e6.chunk.css.map",
+  "static/css/main.40bb0831.chunk.css.map": "/pwa-app/static/css/main.40bb0831.chunk.css.map",
+  "index.html": "/pwa-app/index.html",
+  "precache-manifest.eab4c62cc1ad340ecdbdf3454de6ae99.js": "/pwa-app/precache-manifest.eab4c62cc1ad340ecdbdf3454de6ae99.js",
+  "service-worker.js": "/pwa-app/service-worker.js"
+}
